@@ -1,3 +1,3 @@
 provider "aws" {
-    profile = "mainuser-sean-jjtech"
+    region = "us-east-1"
 }
